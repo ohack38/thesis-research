@@ -1,4 +1,4 @@
-#IPFS & standards for encrypted data 
+# IPFS & standards for encrypted data 
 
 ### TERMS
 
@@ -29,16 +29,16 @@ dag-cbor - encoding (in background)
 ### ARCHITECTURE
 
 DAGJWS - signed but not encrypted
-> setup DID instance using provider
-> create a signed data structure
-> add data
-> make a signed data object
+- setup DID instance using provider
+- create a signed data structure
+- add data
+- make a signed data object
 
 
 DAGJWE - Encrypted data object
-> IPLD data object encrypted to one or many DIDs -> stored directly on ipfs
-> DID can be the user itself but also other chosen users
-> decrypt
+- IPLD data object encrypted to one or many DIDs -> stored directly on ipfs
+- DID can be the user itself but also other chosen users
+- decrypt
 
 
 

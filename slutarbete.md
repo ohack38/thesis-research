@@ -62,3 +62,10 @@ create DAGJWE and add to IPFS
 
 https://blog.ceramic.network/how-to-store-signed-and-encrypted-data-on-ipfs/
 
+
+### ALTERNATIVE TECH
+
+Peergos
+Filecoin
+OrbitDB
+ceramic

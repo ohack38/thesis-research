@@ -62,6 +62,13 @@ create DAGJWE and add to IPFS
 
 https://blog.ceramic.network/how-to-store-signed-and-encrypted-data-on-ipfs/
 
+https://github.com/ceramicnetwork/js-dag-jose
+
+https://www.npmjs.com/package/@didtools/cacao?activeTab=readme
+
+https://developers.ceramic.network/reference/accounts/3id-did/
+
+
 
 ### ALTERNATIVE TECH
 
@@ -69,3 +76,11 @@ Peergos
 Filecoin
 OrbitDB
 ceramic
+
+
+### STEPS
+
+1. install go & IPFS(kubo) / js-ipfs
+2. react vite setup
+3. npm i ipfs-core dids key-did-provider-ed25519 key-did-resolver @stablelib/random
+4. infura?

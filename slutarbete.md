@@ -47,6 +47,9 @@ DAGJWE - Encrypted data object
 - DID can be the user itself but also other chosen users
 - decrypt
 
+IPLD SCHEMA
+- data model, way to represent data
+
 ### ARCHITECTURE / FLOW
 
 Create the EthereumAuthProvider(3ID) or alternative solution - connect wallet

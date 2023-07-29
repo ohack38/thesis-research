@@ -60,6 +60,16 @@ create DID session/authenticate did
 
 create DAGJWE and add to IPFS
 
+### USER FLOW
+
+add friend by userhandle, "friend connection" gets added to both users,both users sees respective user in friend list. 
+
+when user adds file, the user also chooses which friends dids gets access to it, alternatively keeps access open.
+
+Link is made between access dids and the user so the user can easily access files given to him/her.
+
+since the friends did is included in "allowed dids", the friend can decrypt the file.
+
 
 ### LINKS
 
@@ -70,6 +80,7 @@ https://github.com/ceramicnetwork/js-dag-jose
 https://www.npmjs.com/package/@didtools/cacao?activeTab=readme
 
 https://developers.ceramic.network/reference/accounts/3id-did/
+
 
 
 
